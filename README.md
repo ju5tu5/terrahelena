@@ -1,3 +1,3 @@
 # Terra Helena
 
-It's a collection of ideas made by Helena.
+It's a collection of personal ideas made by Helena
