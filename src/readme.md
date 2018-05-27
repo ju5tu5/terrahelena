@@ -2,4 +2,6 @@
 ---
 # Terra Helena
 
-It's a blog..
+Dit is geen blog...
+
+Het zijn hersenspinsels
